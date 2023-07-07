@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Soham Gotkhindikar Blog</title>
+        <link>https://soham-gotkhindikar.github.io/blog</link>
+        <description>Soham Gotkhindikar Blog</description>
+        <lastBuildDate>Wed, 05 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Hello Docusaurus!]]></title>
+            <link>https://soham-gotkhindikar.github.io/blog/hello-world</link>
+            <guid>https://soham-gotkhindikar.github.io/blog/hello-world</guid>
+            <pubDate>Wed, 05 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[After wanting to create this website for over the past two years, I finally got around to finishing it!]]></description>
+            <content:encoded><![CDATA[<p>After wanting to create this website for over the past two years, I finally got around to finishing it!</p>]]></content:encoded>
+            <category>docusaurus</category>
+            <category>react</category>
+        </item>
+    </channel>
+</rss>

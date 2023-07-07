@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://soham-gotkhindikar.github.io/blog</id>
+    <title>Soham Gotkhindikar Blog</title>
+    <updated>2023-07-05T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://soham-gotkhindikar.github.io/blog"/>
+    <subtitle>Soham Gotkhindikar Blog</subtitle>
+    <icon>https://soham-gotkhindikar.github.io/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello Docusaurus!]]></title>
+        <id>https://soham-gotkhindikar.github.io/blog/hello-world</id>
+        <link href="https://soham-gotkhindikar.github.io/blog/hello-world"/>
+        <updated>2023-07-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After wanting to create this website for over the past two years, I finally got around to finishing it!]]></summary>
+        <content type="html"><![CDATA[<p>After wanting to create this website for over the past two years, I finally got around to finishing it!</p>]]></content>
+        <author>
+            <name>Soham Gotkhindikar</name>
+            <uri>https://github.com/soham-gotkhindikar</uri>
+        </author>
+        <category label="docusaurus" term="docusaurus"/>
+        <category label="react" term="react"/>
+    </entry>
+</feed>
