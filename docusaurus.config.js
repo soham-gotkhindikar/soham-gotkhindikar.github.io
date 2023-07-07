@@ -22,9 +22,9 @@ const internetProfiles = {
     label: "Documentation",
     to: "docs",
   },
-  projects: {
-    label: "Projects",
-    to: "projects",
+  porfolio: {
+    label: "Portfolio",
+    to: "portfolio",
   },
   resume: {
     label: "Resume",
@@ -77,7 +77,7 @@ module.exports = {
         links: [
             internetProfiles.blog,
             internetProfiles.docs,
-            internetProfiles.projects,
+            internetProfiles.porfolio,
             internetProfiles.resume,
             internetProfiles.linkedin,
         ],

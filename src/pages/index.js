@@ -116,7 +116,7 @@ function Home() {
                             <div className="pagination-nav__item">
                                 <Link
                                     className="pagination-nav__link"
-                                    to={useBaseUrl("projects/")}
+                                    to={useBaseUrl("portfolio/")}
                                 >
                                     <div className="pagination-nav__sublabel">Check out</div>
                                     <div className="pagination-nav__label">My projects</div>
