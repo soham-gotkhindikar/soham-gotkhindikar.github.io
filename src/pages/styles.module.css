@@ -77,4 +77,14 @@
   .about {
     flex-direction: column;
   }
+  .heroBannerWrapper {
+    max-width: 415px;
+  }
+
+  .heroBanner h1 {
+    font-size: 3.6rem;
+    line-height: 3.6rem;
+    font-weight: 600;
+  }
+
 }

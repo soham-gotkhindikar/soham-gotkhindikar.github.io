@@ -166,7 +166,7 @@ function FollowUp() {
           <div className="pagination-nav__item pagination-nav__item--next">
             <a
               className="pagination-nav__link"
-              href={useBaseUrl("pdf/resume.pdf")}
+              href={useBaseUrl("https://drive.google.com/file/d/1-ZMQuWRKqaYSiYUYOD-eMxkxzdeSkGtr/view?usp=sharing")}
             >
               <div className="pagination-nav__sublabel">Download</div>
               <div className="pagination-nav__label">My resume</div>

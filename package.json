@@ -9,7 +9,8 @@
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "serve": "docusaurus serve",
-    "update:docusaurus": "yarn upgrade @docusaurus/core@latest @docusaurus/preset-classic@latest"
+    "update:docusaurus": "yarn upgrade @docusaurus/core@latest @docusaurus/preset-classic@latest",
+    "pages": "GIT_USER=soham-gotkhindikar DEPLOYMENT_BRANCH=gh-pages USE_SSH=true npm run deploy"
   },
   "dependencies": {
     "@docusaurus/core": "^2.4.0",

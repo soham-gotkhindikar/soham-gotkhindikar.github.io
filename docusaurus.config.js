@@ -67,7 +67,7 @@ module.exports = {
         },
         { to: "portfolio/", label: "Portfolio", position: "right" },
         {
-          href: "https://soham-gotkhindikar.github.io/pdf/resume.pdf",
+          href: "https://drive.google.com/file/d/1-ZMQuWRKqaYSiYUYOD-eMxkxzdeSkGtr/view?usp=sharing",
           label: "Resume",
           position: "right",
         },
